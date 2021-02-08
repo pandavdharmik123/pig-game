@@ -1,0 +1,22 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doubleDice.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandavdharmik123/pig-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandavdharmik123/pig-game/issues"
+  },
+  "homepage": "https://github.com/pandavdharmik123/pig-game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
